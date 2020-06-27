@@ -1,0 +1,19 @@
+.ant-pagination-item-active a {
+  color: #fff !important;
+  font-weight: bold;
+}
+
+.ant-pagination-item-active {
+  font-weight: 500;
+  background: #6DAD9D ;
+  border-radius: 40px;
+}
+
+.ant-pagination-prev a, .ant-pagination-next a {
+  color: #6DAD9D;
+  font-weight: bold;
+}
+
+.ant-pagination-jump-prev .ant-pagination-item-container .ant-pagination-item-link-icon, .ant-pagination-jump-next .ant-pagination-item-container .ant-pagination-item-link-icon {
+  color: #6DAD9D;
+}

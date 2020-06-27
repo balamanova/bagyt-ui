@@ -1,0 +1,177 @@
+.App {
+  justify-content: center;
+  background-color: white;
+}
+
+.sideNav {
+  background: #6DAD9D !important;
+  position: fixed !important;
+}
+
+.imageDiv {
+  margin: 30px;
+  height: 70px;
+}
+
+.image {
+  height: 30
+}
+
+.universityBox {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.basic-container {
+  justify-content: flex-start;
+  margin: 20px 20px 10px;
+  margin-left: 100px;
+}
+
+.universityBoxDiv {
+  padding: 15px;
+  align-items: center;
+  overflow: hidden;
+  height: 170px !important;
+  width: 170px !important;
+  background: #B5B0B9;
+  border-radius: 7px;
+  margin: 20px;
+}
+
+.universityNameBox {
+  font-style: normal;
+  font-weight: normal;
+  font-family: Rufina;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.margin-bottom-20 {
+  margin-bottom: 20px;
+}
+
+.universityImage {
+  border-radius: 5px;
+  width: 324px;
+  height: 228px;
+}
+
+.alignSelfCenter {
+  align-self: center;
+  font-family: Rufina;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.content-space-between {
+  justify-content: space-between;
+}
+
+.fieldName {
+  margin: 20px 10px;
+  font-size: 20px;
+}
+.smallFieldName {
+  margin-left: 10px;
+  margin-right: 15px;
+  font-size: 16px;
+}
+
+.universityName {
+  margin: 20px;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.inline-block {
+  display: -webkit-box;
+  flex: 1;
+}
+
+.customButton{
+  margin-bottom: 16px;
+  border-color: #6DAD9D;
+  background-color: #6DAD9D;
+}
+
+.ant-btn-primary {
+  border-color: #6DAD9D;
+  background-color: #6DAD9D;
+}
+
+.ant-btn-primary:hover {
+  border-color: #6DAD9D;
+  background-color: #6DAD9D;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-flex-end {
+  justify-content: flex-end;
+}
+
+.margin-right-30 {
+  margin-right: 30px;
+}
+
+.logout {
+  bottom: 30px;
+  border-radius: 10px;
+  position: absolute;
+}
+
+.login-form {
+  /* display: block; */
+  padding-left: 30%;
+  padding-right: 30%;
+   padding-top: 10%; 
+  /* width: 50%; */
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: #6DAD9D;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+#register {
+  align-self: center;
+}
+.text-align-center {
+  text-align: -webkit-center;
+  /* margin-left: 150px; */
+}
+
+.width-350 {
+    margin-left: 110px;
+  margin-right: 110px;
+  align-self: center;
+  width: 350px;
+}
+
+.login-form-button {
+  /* margin-left: 20px;
+  margin-right: 20px; */
+  background: #DADADA;
+}
+
+.border-radius-15 {
+  border-radius: 15px;
+}
+
+.margin-20 {
+  margin: 20px;
+}
+
+.ant-modal-body{
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+export const universities = "Universities";
+export const users = "Users";
+export const univerityScreen = "universities";
+export const usersScreen = "users";
+export const writeUniversityName = "Введите название университета";
+export const seacrh = "Поиск";
+export const LOGIN = "Войти";
+export const LOGOUT = "Выйти";
+export const USERNAME = "Имя пользователя";
+export const PASSWORD = "Пароль";
+const PLEASE_FILL = "Пожалуйста, введите";
+export const REQUIRED_USERNAME = `${PLEASE_FILL} имя пользователя`;
+export const REQUIRED_PASS = `${PLEASE_FILL} пароль`;
+export const LOGIN_FAILED = "Неверное имя пользователя или пароль";
